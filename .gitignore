@@ -1,0 +1,8 @@
+.cache
+.bash_history
+.python_history
+.coverage
+.pytest_cac
+.ipynb_checkpoints
+.local
+.ipython
